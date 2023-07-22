@@ -9,3 +9,5 @@ let kanji, hiragana, katakana;
 hiragana = Hiragana();
 katakana = Katakana();
 kanji = Kanji();
+
+console.log(kanji);
